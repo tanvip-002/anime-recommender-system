@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+similarity.pkl
+anime.pkl
+*.ipynb
